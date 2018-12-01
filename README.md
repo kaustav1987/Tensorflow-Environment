@@ -1,2 +1,1 @@
-# Tensorflow-Environment
-Tensorflow Environment
+You may use the environemnt.yml file to setup the keras and tensorflow environment
